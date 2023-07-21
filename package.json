@@ -1,0 +1,14 @@
+{
+  "name": "server-crud",
+  "version": "1.0.0",
+  "description": "a simple crud operation app using express.js and node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnain.HSA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
